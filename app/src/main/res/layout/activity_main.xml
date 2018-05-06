@@ -19,7 +19,7 @@
             android:layout_marginLeft="@dimen/leftRightMargin"
             android:layout_marginRight="@dimen/leftRightMargin"
             android:layout_marginTop="20dp"
-            android:text="Enter a country name whose weather you want to find"
+            android:text="Enter a city name whose weather you want to find"
             android:textSize="@dimen/textSize" />
 
 
